@@ -1,6 +1,5 @@
 This is the fourth commit.
 You should be reading this after step 1!
 here Sharif Hossain has made changes
-This is the seventh commit.
-First commit in the feature branch!
-Ideally, you are not supposed to see this message.
+This is the eighth commit.
+Second commit in the feature branch!
