@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 This is the eighth commit.
@@ -6,6 +7,10 @@ Second commit in the feature branch!
 =======
 >>>>>>> 73ca1a0 (Revert "commit 5")
 >>>>>>> d899ac0 (Revert "commit 5")
+=======
+This is the eighth commit.
+Second commit in the feature branch!
+>>>>>>> b420de6 (merged feature to master)
 This is the fourth commit.
 You should be reading this after step 1!
 here Sharif Hossain has made changes
